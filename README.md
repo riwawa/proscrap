@@ -1,4 +1,4 @@
-# Painel de Monitoramento Processual (DataJud)
+# Painel de Monitoramento Processual (Proscrap)
 
 Um painel que permite cadastrar números de processo (padrão CNJ) e acompanhar automaticamente novas movimentações, consultando periodicamente.
 
