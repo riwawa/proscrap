@@ -2,6 +2,8 @@
 
 Um painel que permite cadastrar números de processo (padrão CNJ) e acompanhar automaticamente novas movimentações, consultando periodicamente.
 
+https://github.com/user-attachments/assets/b3ff6470-6325-492f-8695-15b5223ce4af
+
 ## Estrutura
 
 ```
